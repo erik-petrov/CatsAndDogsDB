@@ -1,0 +1,12 @@
+C:\Users\kotem\source\repos\CatsAndDogsDB\CatsAndDogsDB\obj\Debug\CatsAndDogsDB.csprojAssemblyReference.cache
+C:\Users\kotem\source\repos\CatsAndDogsDB\CatsAndDogsDB\obj\Debug\CatsAndDogsDB.Form1.resources
+C:\Users\kotem\source\repos\CatsAndDogsDB\CatsAndDogsDB\obj\Debug\CatsAndDogsDB.Properties.Resources.resources
+C:\Users\kotem\source\repos\CatsAndDogsDB\CatsAndDogsDB\obj\Debug\CatsAndDogsDB.csproj.GenerateResource.cache
+C:\Users\kotem\source\repos\CatsAndDogsDB\CatsAndDogsDB\obj\Debug\CatsAndDogsDB.csproj.CoreCompileInputs.cache
+C:\Users\kotem\source\repos\CatsAndDogsDB\CatsAndDogsDB\bin\Debug\pets.mdf
+C:\Users\kotem\source\repos\CatsAndDogsDB\CatsAndDogsDB\bin\Debug\pets_log.ldf
+C:\Users\kotem\source\repos\CatsAndDogsDB\CatsAndDogsDB\bin\Debug\CatsAndDogsDB.exe.config
+C:\Users\kotem\source\repos\CatsAndDogsDB\CatsAndDogsDB\bin\Debug\CatsAndDogsDB.exe
+C:\Users\kotem\source\repos\CatsAndDogsDB\CatsAndDogsDB\bin\Debug\CatsAndDogsDB.pdb
+C:\Users\kotem\source\repos\CatsAndDogsDB\CatsAndDogsDB\obj\Debug\CatsAndDogsDB.exe
+C:\Users\kotem\source\repos\CatsAndDogsDB\CatsAndDogsDB\obj\Debug\CatsAndDogsDB.pdb
